@@ -1,5 +1,5 @@
-### MOON-BOT
-> Script ini gratis, menggunakan 99% api dari [AlyaChan-APIs](https://api.alyachan.biz.id)
+### Mbarep-Bot
+> Script ini gratis, menggunakan 99% api dari [MbarepBot-APIs](https://api.alyachan.biz.id)
 
 ### Yang dibutuhkan
 - [x] Server
@@ -10,16 +10,16 @@
 ### Settings di config.js
 ```Javascript
 global.owner = [
-    ['6281252848955'],
-    ['6285815700861'],
-    ['6281252848955', 'owner', true]
+    ['6281539409175'],
+    ['6281539409175'],
+    ['6281539409175', 'owner', true]
 ]
 
 global.mods = ['0']
 global.prems = ['6285815700861', '6281252848955']
 
 global.APIs = {
-  alya: 'https://api.alyachan.biz.id'
+  Mbarep: 'https://api.alyachan.biz.id'
 }
 
 global.APIKeys = {
